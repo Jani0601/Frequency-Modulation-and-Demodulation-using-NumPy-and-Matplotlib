@@ -81,8 +81,10 @@ Frequency Modulation (FM) is a method of transmitting information over a carrier
 <img width="1131" height="1256" alt="image" src="https://github.com/user-attachments/assets/d1b145e4-b0fa-4b48-86f4-6dd13507bff7" />
 
 
+
 ### OUTPUT
 <img width="906" height="552" alt="image" src="https://github.com/user-attachments/assets/37d28f87-fb04-4232-ad09-53b986a06545" />
+
 
    
 ### RESULT
